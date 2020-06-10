@@ -1,3 +1,4 @@
 dit is een voorbeeld
 En dat is nu de wijziging
 En dat is nu nog eens een extra wijziging voor opdracht 17
+En dit is de tweede wijziging(cursief + vetjes gezet + deze zin) maar dan vanuit Cloning ipv Tweede
